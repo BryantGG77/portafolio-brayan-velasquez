@@ -117,7 +117,7 @@ body {
 
 .footer {
     background-color: var(--color-texto-destacado);
-    padding: 1.5rem;
+    padding: 24px;
     color: var(--color-background);
     text-align: center;
     font-family: var(--fuente-montserrat);

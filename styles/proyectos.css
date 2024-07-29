@@ -25,5 +25,6 @@
 
     .presentacion__proyecto {
         flex-direction: column;
+        padding: 5%;
     }
 }
